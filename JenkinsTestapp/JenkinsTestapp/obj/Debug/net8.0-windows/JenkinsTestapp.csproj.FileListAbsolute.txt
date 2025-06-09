@@ -1,0 +1,17 @@
+U:\JenskinsTest1\JenkinsTestapp\JenkinsTestapp\bin\Debug\net8.0-windows\JenkinsTestapp.exe
+U:\JenskinsTest1\JenkinsTestapp\JenkinsTestapp\bin\Debug\net8.0-windows\JenkinsTestapp.deps.json
+U:\JenskinsTest1\JenkinsTestapp\JenkinsTestapp\bin\Debug\net8.0-windows\JenkinsTestapp.runtimeconfig.json
+U:\JenskinsTest1\JenkinsTestapp\JenkinsTestapp\bin\Debug\net8.0-windows\JenkinsTestapp.dll
+U:\JenskinsTest1\JenkinsTestapp\JenkinsTestapp\bin\Debug\net8.0-windows\JenkinsTestapp.pdb
+U:\JenskinsTest1\JenkinsTestapp\JenkinsTestapp\obj\Debug\net8.0-windows\JenkinsTestapp.Form1.resources
+U:\JenskinsTest1\JenkinsTestapp\JenkinsTestapp\obj\Debug\net8.0-windows\JenkinsTestapp.csproj.GenerateResource.cache
+U:\JenskinsTest1\JenkinsTestapp\JenkinsTestapp\obj\Debug\net8.0-windows\JenkinsTestapp.GeneratedMSBuildEditorConfig.editorconfig
+U:\JenskinsTest1\JenkinsTestapp\JenkinsTestapp\obj\Debug\net8.0-windows\JenkinsTestapp.AssemblyInfoInputs.cache
+U:\JenskinsTest1\JenkinsTestapp\JenkinsTestapp\obj\Debug\net8.0-windows\JenkinsTestapp.AssemblyInfo.cs
+U:\JenskinsTest1\JenkinsTestapp\JenkinsTestapp\obj\Debug\net8.0-windows\JenkinsTestapp.csproj.CoreCompileInputs.cache
+U:\JenskinsTest1\JenkinsTestapp\JenkinsTestapp\obj\Debug\net8.0-windows\JenkinsTestapp.sourcelink.json
+U:\JenskinsTest1\JenkinsTestapp\JenkinsTestapp\obj\Debug\net8.0-windows\JenkinsTestapp.dll
+U:\JenskinsTest1\JenkinsTestapp\JenkinsTestapp\obj\Debug\net8.0-windows\refint\JenkinsTestapp.dll
+U:\JenskinsTest1\JenkinsTestapp\JenkinsTestapp\obj\Debug\net8.0-windows\JenkinsTestapp.pdb
+U:\JenskinsTest1\JenkinsTestapp\JenkinsTestapp\obj\Debug\net8.0-windows\JenkinsTestapp.genruntimeconfig.cache
+U:\JenskinsTest1\JenkinsTestapp\JenkinsTestapp\obj\Debug\net8.0-windows\ref\JenkinsTestapp.dll
