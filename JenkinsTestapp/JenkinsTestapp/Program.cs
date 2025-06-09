@@ -13,7 +13,7 @@ namespace JenkinsTestapp
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
 
-            Console.WriteLine("App started and is running somehow hallejulah!");
+            File.WriteAllText("jenkins_log.txt", "App started and is running somehow hallelujah!");
         }
     }
 }
